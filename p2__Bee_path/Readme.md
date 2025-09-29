@@ -14,6 +14,7 @@ The main purpose of this project is to:
 By simulating the bee’s motion, this project provides an interactive way to study dynamical systems, visualize trajectories in 3D, and understand how simple mathematical rules can produce complex natural patterns.
 
 2. Problem Statement
+
 The goal of this project is to:
   1.	Simulate the movement of a bee in a 3D space using differential equations.
   2.	Numerically integrate the system to get positions x(t),y(t),z(t) over time.
