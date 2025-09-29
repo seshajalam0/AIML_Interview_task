@@ -10,6 +10,7 @@ The main purpose of this project is to:
   1.	Numerically solve the system of differential equations to track the bee’s position over time.
   2.	Visualize the resulting trajectory in 3D space.
   3.	Analyze the movement patterns to observe complex or chaotic behavior.
+
 By simulating the bee’s motion, this project provides an interactive way to study dynamical systems, visualize trajectories in 3D, and understand how simple mathematical rules can produce complex natural patterns.
 
 2. Problem Statement
